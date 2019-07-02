@@ -1,0 +1,33 @@
+Login Information:
+User Type-Admin
+userID - Admin
+Password - 12345
+**********************
+
+User Type - Librarian
+UserID-Librarian
+Password - 12345
+**************************
+User Type - Account Officer
+UserID-Account officer
+Password - 12345
+*****************************
+Requirements - Visual Studio 2010,SQL Server 2008 and Crystal Report for VS 2010 must be installed on your system to run this Project Successfully
+
+
+This Project and Documentation can be used for final year BE/BTech/BS/BCA/MCA/MSc students. 
+For students or anyone else who needs program or source code for thesis writing or any Professional Software Development,Website Development,Mobile Apps Development at affordable cost
+contact me at
+
+FB :https://www.facebook.com/vaibhav.patidar.524
+my WhatsApp Number : +918349102353
+Email:-Vaibhavpatidar36@gmail.com
+
+Databsebackup and Restore instructions :
+
+1. For Database backup click on Database backup option then its create a DB Backup folder of .bak file in your Pc's  C drive.
+2. for Restoring database click on Database Recovery  option then choose your database .bak file from your C drive.
+
+
+Complete Documentations is also available for this project.
+please don't forget to like and share it if you found it useful :) 
